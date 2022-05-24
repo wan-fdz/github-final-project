@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# wan.fdz
+# wan-fdz
 
 # Input:
 # p, principal amount
